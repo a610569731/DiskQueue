@@ -1,0 +1,3 @@
+# DiskQueue
+用mappedbytebuffer实现一个持久化队列
+block读写index
